@@ -15,7 +15,7 @@ Calibrated against the **Australian National Construction Code (NCC 2025)** and 
 ## 👥 Authors & Core Developers
 This framework was developed through a cross-disciplinary academic collaboration bridging advanced computational systems and sustainable environmental design:
 *   **Faezeh Akbari Nikjeh** *(Architectural & Sustainability Researcher)*: Formulated the LCA methodology, conducted NCC compliance research, established the absolute carbon thresholds, and led the empirical validation against global EC3 benchmarks.
-*   **Mohsen Javdan Fard** *(Lead Systems Architect & Developer)*: Conceptualized the algorithmic architecture, developed the fail-safe IronPython data pipelines, and constructed the visual programming logic.
+*   **Mohsen JavdanFard** *(Lead Systems Architect & Developer)*: Conceptualized the algorithmic architecture, developed the fail-safe IronPython data pipelines, and constructed the visual programming logic.
 
 ---
 
