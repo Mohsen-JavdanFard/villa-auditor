@@ -24,13 +24,13 @@ The tool translates complex numerical carbon data into intuitive color-coded phy
 
 ### ✅ Standard Passed (Within Limit)
 When the cumulative carbon is under the 15,000 kg CO2-e threshold, the building dynamically renders **Green**.
-*(See `assets/01.jpg` for detailed view)*
-![Standard Passed](assets/01.jpg)
+*(See `compliant_green.png` for detailed view)*
+![Standard Passed](compliant_green.png)
 
 ### ❌ Standard Exceeded (Over Limit)
 As the geometry scales up or carbon-heavy materials are selected, breaching the budget instantly renders the building **Red**.
-*(See `assets/03.jpg` for detailed view)*
-![Standard Exceeded](assets/03.jpg)
+*(See `noncompliant_red.png` for detailed view)*
+![Standard Exceeded](noncompliant_red.png)
 
 ---
 
