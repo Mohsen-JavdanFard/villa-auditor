@@ -39,6 +39,11 @@ By utilizing a robust IronPython core, the tool calculates total structural foot
 
 $$EC_{u}=\Sigma(V_{n}\times\rho_{n}\times CF_{n})$$
 
+### 📐 System Architecture & Data Flow
+The following flowchart illustrates the underlying semantic filtering pipeline and the logical progression of the real-time compliance telemetry:
+
+![System Architecture Flowchart](assets/flowchart.png)
+
 **Baseline Configurations:**
 *   **Absolute Carbon Budget (Threshold):** `15,000.0 kg CO2-e`
 *   **Standard Concrete CF:** `320.0 kg CO2-e/m³`
